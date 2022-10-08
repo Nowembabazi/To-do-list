@@ -63,35 +63,35 @@ i {
     border: none;
     background-color: white;
   }
-  
+
   .task {
     margin-top: 10px;
   }
-  
+
   #addButton,
   .delButton {
     font-size: 25px;
   }
-  
+
   .task-item {
     height: 20px;
     border: none;
     width: 80%;
   }
-  
+
   .inputWidth {
     width: 100%;
     margin-bottom: 10px;
   }
-  
+
   hr {
     margin-top: 0;
   }
-  
+
   #hrId {
     margin-bottom: 0;
   }
-  
+
   ul {
     list-style: none;
     padding: 0 0;
